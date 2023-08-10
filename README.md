@@ -14,7 +14,7 @@
 
 
 ## Программа обучения:
-![-](https://github.com/Strangervl/Yandex-DA/blob/main/cert/cert.pdf)
+![-](https://github.com/Strangervl/Yandex-DA/blob/main/cert/cert_2.png)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
