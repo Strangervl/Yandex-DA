@@ -23,3 +23,6 @@
 
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, seaborn, plotly.express*
+
+## Вывод
+Проект завершён
