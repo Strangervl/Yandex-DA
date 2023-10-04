@@ -24,5 +24,5 @@
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, seaborn, plotly.express*
 
-## Вывод
+## Статус проекта
 Проект завершён
