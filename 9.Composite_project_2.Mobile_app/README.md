@@ -14,3 +14,6 @@
 
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, seaborn, scipy, plotly*
+
+## Статус проекта
+Проект завершён
